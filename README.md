@@ -74,6 +74,14 @@ This application uses a weather API to retrieve current weather information.
 
 > Make sure to add your API key to the appropriate configuration before running the project.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="250"/>
+  <img src="assets/screenshots/search.png" width="250"/>
+  <img src="assets/screenshots/weather.png" width="250"/>
+</p>
+
 ## 👨‍💻 Author
 
 **AbdelAzeem Mohammed**
